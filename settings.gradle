@@ -1,0 +1,3 @@
+rootProject.name = 'eo-to'
+include 'bot'
+
